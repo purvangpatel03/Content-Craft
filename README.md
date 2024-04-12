@@ -1,16 +1,22 @@
-# article_web
+# Content Craft
 
-A new Flutter project.
+Built Content Craft, a cross-platform content management application using Flutter.
 
-## Getting Started
+This responsive app allows authorized admins to effortlessly add and manage articles with rich details and accompanying photos. 
 
-This project is a starting point for a Flutter application.
+Leveraging Firebase for data storage, Content Craft ensures secure and scalable content organization, accessible from both web and mobile devices.
 
-A few resources to get you started if this is your first Flutter project:
+### Few Screenshots of Content Craft.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="url"><img src="https://github.com/purvangpatel03/Content-Craft/blob/main/assets/content_craft_mobile_home_page.png" align="left" width="160" ></a>
+
+<a href="url"><img src="https://github.com/purvangpatel03/Content-Craft/blob/main/assets/content_craft_mobile_login_page.png" align="left" width="160" ></a>
+
+<a href="url"><img src="https://github.com/purvangpatel03/Content-Craft/blob/main/assets/content_craft_mobile_sign_up_page.png" align="left" width="160" ></a>
+
+<a href="url"><img src="https://github.com/purvangpatel03/Content-Craft/blob/main/assets/content_craft_mobile_update_page.png" align="left" width="160" ></a>  
+
+<a href="url"><img src="https://github.com/purvangpatel03/Content-Craft/blob/main/assets/web_content_craft_login_page.png" align="left" width="420" ></a>  
+
+<a href="url"><img src="https://github.com/purvangpatel03/Content-Craft/blob/main/assets/web_content_craft_sign_up_page.png" align="left" width="420" ></a>
