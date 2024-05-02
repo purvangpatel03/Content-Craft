@@ -30,15 +30,15 @@ class GoogleSignup extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Image(
-            height: 28,
+            height: 24,
             image: AssetImage('assets/login_signup/google.png'),
           ),
           SizedBox(
-            width: 10,
+            width: 8,
           ),
           Text(
             'Sign-up with Google',
-            style: TextStyle(color: Colors.black, fontSize: 16),
+            style: TextStyle(color: Colors.black, fontSize: 14),
           ),
         ],
       ),

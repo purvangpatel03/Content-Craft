@@ -26,6 +26,7 @@ class SignupForm extends StatelessWidget {
             horizontal: formPadding,
           ),
           child: Column(
+            crossAxisAlignment: CrossAxisAlignment.center,
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               ..._formHeader(),
@@ -51,6 +52,7 @@ class SignupForm extends StatelessWidget {
     return [
       const Text(
         "Welcome To Content Craft",
+        textAlign: TextAlign.center,
         style: TextStyle(
           color: Colors.white,
           fontSize: 20,

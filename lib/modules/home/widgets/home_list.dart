@@ -115,7 +115,7 @@ class HomeList extends StatelessWidget {
                     crossAxisSpacing: 10,
                     mainAxisSpacing: 10,
                     crossAxisCount: 1,
-                    childAspectRatio: 3,
+                    childAspectRatio: 2.6,
                     children: List.generate(
                       provider.articles.length,
                       (index) => InkWell(
