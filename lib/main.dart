@@ -12,13 +12,7 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: 'AIzaSyC4N43YmaJf2PKDcKpQK3lg4kA6tVv57R8',
-        appId: '1:725227720753:web:79ec3e7a66c492c9f54510',
-        messagingSenderId: '725227720753',
-        projectId: 'content-craft-project',
-        authDomain: 'content-craft-project.firebaseapp.com',
-        storageBucket: 'content-craft-project.appspot.com',
-        measurementId: 'G-WE52K082BK',
+        //your config
       ),
     );
   } else if (Platform.isAndroid) {
